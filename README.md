@@ -5,8 +5,6 @@
 - Estou estudando na [Alura](https://www.alura.com.br/).
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo ese espaço para minha orgnização e compartilhamento dos meus projetos desevolvidos
-![](https://media1.tenor.com/m/aVt3qyCkJ6IAAAAd/cellbit.gif)
-
 - 15 anos, nascida em 2009, no estado Paraná;
 - Católica;
 - Estudante;
@@ -15,3 +13,7 @@
 - Gosto de Ilutrações que me levam a analisar uma crítica social, desenhos do corpo humano distorcido causando leve sentimento de vazio, novas emoções diferentes do que costumo sentir
 - amante de arte
   **Você pode se comunicar comigo em julia.leonel.ramos@escola.pr.gov.br**
+
+![](https://media1.tenor.com/m/aVt3qyCkJ6IAAAAd/cellbit.gif)
+
+
